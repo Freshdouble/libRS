@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libRS", "libRS\libRS.csproj", "{637A4226-EE22-4224-BB5A-C42B0E2C615B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libRS_test", "libRS_test\libRS_test.csproj", "{DAC5C9C7-70EF-4745-A1A3-D6E81C12D896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637A4226-EE22-4224-BB5A-C42B0E2C615B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637A4226-EE22-4224-BB5A-C42B0E2C615B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637A4226-EE22-4224-BB5A-C42B0E2C615B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637A4226-EE22-4224-BB5A-C42B0E2C615B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC5C9C7-70EF-4745-A1A3-D6E81C12D896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC5C9C7-70EF-4745-A1A3-D6E81C12D896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC5C9C7-70EF-4745-A1A3-D6E81C12D896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC5C9C7-70EF-4745-A1A3-D6E81C12D896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
